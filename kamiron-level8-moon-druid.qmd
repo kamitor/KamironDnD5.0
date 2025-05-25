@@ -1,0 +1,200 @@
+
+---
+title: "D&D 5e Character Sheet: Kamiron (Moon Druid, Level 8)"
+format: html
+page-layout: full
+---
+
+# 🧙 Character Overview
+
+| Character Name | Class & Level | Background | Player Name | Race | Alignment | Experience |
+|----------------|----------------|-------------|--------------|------|------------|-------------|
+| Kamiron        | Druid 8 (Circle of the Moon) |             | Kamiron      | Aarakocra | Neutral Good? |             |
+
+---
+
+# 💪 Abilities & Saving Throws
+
+| Ability     | Score | Modifier | Saving Throw | Proficient |
+|-------------|-------|----------|---------------|------------|
+| Strength    | 8     | -1       | -1            | ☐          |
+| Dexterity   | 17    | +3       | +3            | ☐          |
+| Constitution| 14    | +2       | +2            | ☐          |
+| Intelligence| 10    | +0       | +0            | ☐          |
+| Wisdom      | 18    | +4       | +7            | ✅         |
+| Charisma    | 8     | -1       | -1            | ☐          |
+
+**Proficiency Bonus:** +3  
+**Inspiration:** ☐
+
+---
+
+# 🎯 Skills
+
+| Skill                 | Mod | Proficient | Notes |
+|-----------------------|-----|------------|-------|
+| Acrobatics (Dex)      | +3  | ☐          |       |
+| Animal Handling (Wis) | +4  | ✅         |       |
+| Arcana (Int)          | +0  | ☐          |       |
+| Athletics (Str)       | -1  | ☐          |       |
+| Deception (Cha)       | -1  | ☐          |       |
+| History (Int)         | +0  | ☐          |       |
+| Insight (Wis)         | +4  | ✅         |       |
+| Intimidation (Cha)    | -1  | ☐          |       |
+| Investigation (Int)   | +0  | ☐          |       |
+| Medicine (Wis)        | +4  | ☐          |       |
+| Nature (Int)          | +0  | ✅         |       |
+| Perception (Wis)      | +4  | ✅         |       |
+| Performance (Cha)     | -1  | ☐          |       |
+| Persuasion (Cha)      | -1  | ☐          |       |
+| Religion (Int)        | +0  | ☐          |       |
+| Sleight of Hand (Dex) | +3  | ☐          |       |
+| Stealth (Dex)         | +3  | ☐          |       |
+| Survival (Wis)        | +4  | ✅         |       |
+
+---
+
+# 🛡️ Combat
+
+- **Armor Class (AC):** 17  
+- **Initiative:** +3  
+- **Speed:** 25 ft / 50 ft (fly)  
+- **Hit Point Maximum:** 61  
+- **Current HP:**  
+- **Temporary HP:**  
+- **Hit Dice:** 8d8  
+- **Death Saves:** ✅ Successes ☐ ☐ ☐ | ❌ Failures ☐ ☐ ☐
+
+---
+
+# ⚔️ Attacks & Spellcasting
+
+| Name          | Attack Bonus | Damage / Type |
+|---------------|--------------|----------------|
+| Produce Flame | +7           | Fire           |
+| Scythe        | +2           | Slashing       |
+| Unarmed       | +2           | 1d4+1-1        |
+
+**Spellcasting Class:** Druid  
+**Spellcasting Ability:** Wisdom  
+**Spell Save DC:** 15  
+**Spell Attack Bonus:** +7
+
+---
+
+# 🧪 Spellcasting
+
+## Cantrips
+
+- Goodberry  
+- Guidance  
+- Produce Flame  
+- Shape Water  
+
+## Spells by Level
+
+| Level | Known Spells                              | Slots | Used |
+|-------|-------------------------------------------|--------|------|
+| 1     | Entangle, Healing Word                    | 4      |      |
+| 2     | Barkskin, Healing Spirit, Moonbeam        | 3      |      |
+| 3     | Erupting Earth, Conjure Animals           | 3      |      |
+| 4     | Guardian of Nature, Ice Storm             | 2      |      |
+
+---
+
+# 🌙 Circle of the Moon Features
+
+- **Combat Wild Shape**: Use Wild Shape as a bonus action, and expend spell slots to heal.
+- **Circle Forms**: Wild Shape CR limit is 1 at level 2; CR 2 at level 6.
+- **Elemental Wild Shape** (Lvl 8): Use 2 Wild Shapes to become a CR 5 Elemental.
+- **Wild Shape Uses:** 2 per short rest
+- **Wild Shape CR Max:** 2 (no movement restrictions)
+
+---
+
+# 🎒 Equipment
+
+**Carrying Capacity:**  
+**CP:**  
+**SP:**  
+**EP:**  
+**GP:**  
+**PP:**  
+
+**Items:**
+
+- Druidic Focus  
+- Explorer’s Pack  
+- Scythe (flavored quarterstaff)  
+- Leather Armor  
+
+---
+
+# 🧬 Other Proficiencies & Languages
+
+- Common, Aarakocra, Druidic, Sylvan  
+- Herbalism Kit  
+- Light armor, medium armor, shields  
+- Clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears  
+
+---
+
+# ✨ Features & Traits
+
+- Stronger Talons (+1 damage unarmed)  
+- Aarakocra Flight (50 ft fly speed)  
+- Darkvision  
+- Spellcasting  
+- Druid Circle Features (see above)  
+
+---
+
+# ❤️ Personality Traits
+
+- **Traits:**  
+- **Ideals:**  
+- **Bonds:**  
+- **Flaws:**  
+
+---
+
+# 👤 Character Details
+
+| Age | Height | Weight | Eyes | Skin | Hair |
+|-----|--------|--------|------|------|------|
+|     |        |        |      |      |      |
+
+---
+
+# 🎭 Character Appearance
+
+> Avian with fierce orange eyes and bronze feathers.
+
+---
+
+# 📖 Backstory
+
+> [Insert full backstory here — explorer from a high mountain, devoted to preserving balance and guarding natural places.]
+
+---
+
+# 🛡️ Allies & Organizations
+
+| Name         | Symbol | Notes                      |
+|--------------|--------|----------------------------|
+| Circle of the Moon | 🌕     | Druidic order from the forest peaks |
+
+---
+
+# 💎 Treasure
+
+- Healing herbs  
+- Emerald Elemental Charm  
+
+---
+
+# ➕ Additional Features & Traits
+
+- Wild Shape: CR 2 beasts (no swim/fly restrictions)  
+- Elemental Shape: 1x/day as Air, Earth, Fire, or Water Elemental (CR 5)
+

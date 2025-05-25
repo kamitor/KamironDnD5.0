@@ -1,0 +1,176 @@
+
+---
+title: "D&D 5e Character Sheet: Kamiron"
+format: html
+page-layout: full
+---
+
+# 🧙 Character Overview
+
+| Character Name | Class & Level | Background | Player Name | Race | Alignment | Experience |
+|----------------|----------------|-------------|--------------|------|------------|-------------|
+| Kamiron        | Druid 5        |             | Kamiron      | Aarakocra |            |             |
+
+---
+
+# 💪 Abilities & Saving Throws
+
+| Ability     | Score | Modifier | Saving Throw | Proficient |
+|-------------|-------|----------|---------------|------------|
+| Strength    | 8     | -1       | -1            | ☐          |
+| Dexterity   | 17    | +3       | +3            | ☐          |
+| Constitution| 14    | +2       | +2            | ☐          |
+| Intelligence| 10    | +0       | +0            | ☐          |
+| Wisdom      | 18    | +4       | +4            | ☐          |
+| Charisma    | 8     | -1       |               | ☐          |
+
+**Proficiency Bonus:** +3  
+**Inspiration:** ☐
+
+---
+
+# 🎯 Skills
+
+| Skill                 | Mod | Proficient | Notes |
+|-----------------------|-----|------------|-------|
+| Acrobatics (Dex)      |     | ☐          |       |
+| Animal Handling (Wis) |     | ☐          |       |
+| Arcana (Int)          |     | ☐          |       |
+| Athletics (Str)       |     | ☐          |       |
+| Deception (Cha)       |     | ☐          |       |
+| History (Int)         |     | ☐          |       |
+| Insight (Wis)         |     | ☐          |       |
+| Intimidation (Cha)    |     | ☐          |       |
+| Investigation (Int)   |     | ☐          |       |
+| Medicine (Wis)        |     | ☐          |       |
+| Nature (Int)          |     | ☐          |       |
+| Perception (Wis)      |     | ☐          |       |
+| Performance (Cha)     |     | ☐          |       |
+| Persuasion (Cha)      |     | ☐          |       |
+| Religion (Int)        |     | ☐          |       |
+| Sleight of Hand (Dex) |     | ☐          |       |
+| Stealth (Dex)         |     | ☐          |       |
+| Survival (Wis)        |     | ☐          |       |
+
+---
+
+# 🛡️ Combat
+
+- **Armor Class (AC):** 17  
+- **Initiative:**  
+- **Speed:** 25 / 50 ft  
+- **Hit Point Maximum:** 38  
+- **Current HP:**  
+- **Temporary HP:**  
+- **Hit Dice:** 5  
+- **Death Saves:** ✅ Successes ☐ ☐ ☐ | ❌ Failures ☐ ☐ ☐
+
+---
+
+# ⚔️ Attacks & Spellcasting
+
+| Name          | Attack Bonus | Damage / Type |
+|---------------|--------------|----------------|
+| Produce Flame | +7           |                |
+| Scythe        | +3           |                |
+| Unarmed       | +3           | 1d4+1-1         |
+
+**Spellcasting Class:** Druid  
+**Spellcasting Ability:** WIS  
+**Spell Save DC:** 15  
+**Spell Attack Bonus:** +7
+
+---
+
+# 🧪 Spellcasting
+
+## Cantrips
+
+- Goodberry
+- Guidance
+- Produce Flame
+- Shape Water
+
+## Spells by Level
+
+| Level | Known Spells                              | Slots | Used |
+|-------|-------------------------------------------|--------|------|
+| 1     | Entangle, Healing Word                    | 4      |      |
+| 2     | Barkskin, Healing Spirit, Moonbeam        | 3      |      |
+| 3     | Erupting Earth, Conjure Animals           | 2      |      |
+
+---
+
+# 🎒 Equipment
+
+**Carrying Capacity:**  
+**CP:**  
+**SP:**  
+**EP:**  
+**GP:**  
+**PP:**  
+
+**Items:**
+
+-  
+
+---
+
+# 🧬 Other Proficiencies & Languages
+
+-  
+
+---
+
+# ✨ Features & Traits
+
+- Stronger Talons (+1)
+
+---
+
+# ❤️ Personality Traits
+
+-  
+- **Ideals:**  
+- **Bonds:**  
+- **Flaws:**  
+
+---
+
+# 👤 Character Details
+
+| Age | Height | Weight | Eyes | Skin | Hair |
+|-----|--------|--------|------|------|------|
+|     |        |        |      |      |      |
+
+---
+
+# 🎭 Character Appearance
+
+> 
+
+---
+
+# 📖 Backstory
+
+> 
+
+---
+
+# 🛡️ Allies & Organizations
+
+| Name | Symbol | Notes |
+|------|--------|-------|
+|      |        |       |
+
+---
+
+# 💎 Treasure
+
+-  
+
+---
+
+# ➕ Additional Features & Traits
+
+-  

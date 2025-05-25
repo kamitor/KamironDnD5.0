@@ -1,0 +1,109 @@
+---
+title: "D&D 5e Character Sheet"
+format: html
+page-layout: full
+css: styles.css  # optional: for custom styling
+---
+
+# 🧙 Character Overview
+
+| Name          | Race       | Class      | Background | Alignment     | Level |
+|---------------|------------|------------|------------|---------------|-------|
+|               |            |            |            |               |       |
+
+# 💪 Ability Scores
+
+| Ability | Score | Modifier |
+|---------|-------|----------|
+| STR     |       |          |
+| DEX     |       |          |
+| CON     |       |          |
+| INT     |       |          |
+| WIS     |       |          |
+| CHA     |       |          |
+
+# 🎯 Proficiencies & Skills
+
+## Saving Throws
+
+- [ ] Strength  
+- [ ] Dexterity  
+- [ ] Constitution  
+- [ ] Intelligence  
+- [ ] Wisdom  
+- [ ] Charisma  
+
+## Skills
+
+- [ ] Acrobatics (DEX)  
+- [ ] Animal Handling (WIS)  
+- [ ] Arcana (INT)  
+- [ ] Athletics (STR)  
+- [ ] Deception (CHA)  
+- [ ] History (INT)  
+- [ ] Insight (WIS)  
+- [ ] Intimidation (CHA)  
+- [ ] Investigation (INT)  
+- [ ] Medicine (WIS)  
+- [ ] Nature (INT)  
+- [ ] Perception (WIS)  
+- [ ] Performance (CHA)  
+- [ ] Persuasion (CHA)  
+- [ ] Religion (INT)  
+- [ ] Sleight of Hand (DEX)  
+- [ ] Stealth (DEX)  
+- [ ] Survival (WIS)  
+
+# ⚔️ Combat Stats
+
+- **Armor Class (AC):**  
+- **Initiative:**  
+- **Speed:**  
+- **Hit Points (HP):**  
+- **Hit Dice:**  
+- **Attacks and Spellcasting:**  
+  - Weapon/Spell Name – Attack Bonus – Damage/Effect
+
+# 🎒 Equipment
+
+- Backpack  
+- Rations  
+- Waterskin  
+- …  
+
+# ✨ Features and Traits
+
+> Write racial/class features here.
+
+---
+
+# 📜 Spells
+
+## Spellcasting Ability:  
+## Spell Save DC:  
+## Spell Attack Bonus:  
+
+### Cantrips
+- 
+
+### Level 1
+- 
+
+### Level 2+
+- 
+
+---
+
+# 📘 Notes & Backstory
+
+- Personality Traits:  
+- Ideals:  
+- Bonds:  
+- Flaws:  
+
+---
+
+# 📊 Experience & Progression
+
+- XP:  
+- Next Level:  
