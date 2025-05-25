@@ -2,108 +2,183 @@
 title: "D&D 5e Character Sheet"
 format: html
 page-layout: full
-css: styles.css  # optional: for custom styling
 ---
 
 # 🧙 Character Overview
 
-| Name          | Race       | Class      | Background | Alignment     | Level |
-|---------------|------------|------------|------------|---------------|-------|
-|               |            |            |            |               |       |
+| Character Name | Class & Level | Background | Player Name | Race | Alignment | Experience |
+|----------------|----------------|-------------|--------------|------|------------|-------------|
+|                |                |             |              |      |            |             |
 
-# 💪 Ability Scores
+---
 
-| Ability | Score | Modifier |
-|---------|-------|----------|
-| STR     |       |          |
-| DEX     |       |          |
-| CON     |       |          |
-| INT     |       |          |
-| WIS     |       |          |
-| CHA     |       |          |
+# 💪 Abilities & Saving Throws
 
-# 🎯 Proficiencies & Skills
+| Ability     | Score | Modifier | Saving Throw | Proficient |
+|-------------|-------|----------|---------------|------------|
+| Strength    |       |          |               | ☐          |
+| Dexterity   |       |          |               | ☐          |
+| Constitution|       |          |               | ☐          |
+| Intelligence|       |          |               | ☐          |
+| Wisdom      |       |          |               | ☐          |
+| Charisma    |       |          |               | ☐          |
 
-## Saving Throws
+**Proficiency Bonus:**  
+**Inspiration:** ☐
 
-- [ ] Strength  
-- [ ] Dexterity  
-- [ ] Constitution  
-- [ ] Intelligence  
-- [ ] Wisdom  
-- [ ] Charisma  
+---
 
-## Skills
+# 🎯 Skills
 
-- [ ] Acrobatics (DEX)  
-- [ ] Animal Handling (WIS)  
-- [ ] Arcana (INT)  
-- [ ] Athletics (STR)  
-- [ ] Deception (CHA)  
-- [ ] History (INT)  
-- [ ] Insight (WIS)  
-- [ ] Intimidation (CHA)  
-- [ ] Investigation (INT)  
-- [ ] Medicine (WIS)  
-- [ ] Nature (INT)  
-- [ ] Perception (WIS)  
-- [ ] Performance (CHA)  
-- [ ] Persuasion (CHA)  
-- [ ] Religion (INT)  
-- [ ] Sleight of Hand (DEX)  
-- [ ] Stealth (DEX)  
-- [ ] Survival (WIS)  
+| Skill                 | Mod | Proficient | Notes |
+|-----------------------|-----|------------|-------|
+| Acrobatics (Dex)      |     | ☐          |       |
+| Animal Handling (Wis) |     | ☐          |       |
+| Arcana (Int)          |     | ☐          |       |
+| Athletics (Str)       |     | ☐          |       |
+| Deception (Cha)       |     | ☐          |       |
+| History (Int)         |     | ☐          |       |
+| Insight (Wis)         |     | ☐          |       |
+| Intimidation (Cha)    |     | ☐          |       |
+| Investigation (Int)   |     | ☐          |       |
+| Medicine (Wis)        |     | ☐          |       |
+| Nature (Int)          |     | ☐          |       |
+| Perception (Wis)      |     | ☐          |       |
+| Performance (Cha)     |     | ☐          |       |
+| Persuasion (Cha)      |     | ☐          |       |
+| Religion (Int)        |     | ☐          |       |
+| Sleight of Hand (Dex) |     | ☐          |       |
+| Stealth (Dex)         |     | ☐          |       |
+| Survival (Wis)        |     | ☐          |       |
 
-# ⚔️ Combat Stats
+---
+
+# 🛡️ Combat
 
 - **Armor Class (AC):**  
 - **Initiative:**  
 - **Speed:**  
-- **Hit Points (HP):**  
+- **Hit Point Maximum:**  
+- **Current HP:**  
+- **Temporary HP:**  
 - **Hit Dice:**  
-- **Attacks and Spellcasting:**  
-  - Weapon/Spell Name – Attack Bonus – Damage/Effect
+- **Death Saves:** ✅ Successes ☐ ☐ ☐ | ❌ Failures ☐ ☐ ☐
+
+---
+
+# ⚔️ Attacks & Spellcasting
+
+| Name            | Attack Bonus | Damage / Type |
+|-----------------|--------------|----------------|
+|                 |              |                |
+|                 |              |                |
+|                 |              |                |
+
+**Spellcasting Class:**  
+**Spellcasting Ability:**  
+**Spell Save DC:**  
+**Spell Attack Bonus:**  
+
+---
+
+# 🧪 Spellcasting
+
+## Cantrips
+
+-  
+-  
+-  
+
+## Spells by Level
+
+| Level | Known Spells                      | Slots | Used |
+|-------|-----------------------------------|--------|------|
+| 1     |                                   |        |      |
+| 2     |                                   |        |      |
+| 3     |                                   |        |      |
+| 4     |                                   |        |      |
+| 5     |                                   |        |      |
+| 6     |                                   |        |      |
+| 7     |                                   |        |      |
+| 8     |                                   |        |      |
+| 9     |                                   |        |      |
+
+---
 
 # 🎒 Equipment
 
-- Backpack  
-- Rations  
-- Waterskin  
-- …  
+**Carrying Capacity:**  
+**CP:**  
+**SP:**  
+**EP:**  
+**GP:**  
+**PP:**  
 
-# ✨ Features and Traits
+**Items:**
 
-> Write racial/class features here.
-
----
-
-# 📜 Spells
-
-## Spellcasting Ability:  
-## Spell Save DC:  
-## Spell Attack Bonus:  
-
-### Cantrips
-- 
-
-### Level 1
-- 
-
-### Level 2+
-- 
+-  
+-  
 
 ---
 
-# 📘 Notes & Backstory
+# 🧬 Other Proficiencies & Languages
 
-- Personality Traits:  
-- Ideals:  
-- Bonds:  
-- Flaws:  
+-  
+-  
 
 ---
 
-# 📊 Experience & Progression
+# ✨ Features & Traits
 
-- XP:  
-- Next Level:  
+-  
+-  
+
+---
+
+# ❤️ Personality Traits
+
+- **Personality:**  
+- **Ideals:**  
+- **Bonds:**  
+- **Flaws:**  
+
+---
+
+# 👤 Character Details
+
+| Age | Height | Weight | Eyes | Skin | Hair |
+|-----|--------|--------|------|------|------|
+|     |        |        |      |      |      |
+
+---
+
+# 🎭 Character Appearance
+
+> Describe the physical and stylistic look of your character here.
+
+---
+
+# 📖 Backstory
+
+> Insert full backstory including important past events, motivations, and relationships.
+
+---
+
+# 🛡️ Allies & Organizations
+
+| Name | Symbol | Notes |
+|------|--------|-------|
+|      |        |       |
+
+---
+
+# 💎 Treasure
+
+-  
+
+---
+
+# ➕ Additional Features & Traits
+
+-  
+
