@@ -18,6 +18,8 @@ Spell list
 https://dnd5e.wikidot.com/spells:druid
 
 
+14 piecing 
+
 # 🧙 Character Overview
 
 | Character Name | Class & Level | Background | Player Name | Race | Alignment | Experience |
@@ -39,6 +41,7 @@ https://dnd5e.wikidot.com/spells:druid
 
 **Proficiency Bonus:** +3  
 **Inspiration:** ☐
+- 20 
 
 ---
 
@@ -79,7 +82,9 @@ https://dnd5e.wikidot.com/spells:druid
 - **Hit Dice:** 8d8  
 - **Death Saves:** ✅ Successes ☐ ☐ ☐ | ❌ Failures ☐ ☐ ☐
 
----
+61 - 18 - 9 - 8
+
+
 
 # ⚔️ Attacks & Spellcasting
 
@@ -308,3 +313,4 @@ in the middle of the night a small girl approaches;
 | **3rd**         | **Meld into Stone**           | Meld with natural stone to hide or meditate safely |
 | **4th**         | *(None)*                      | No ritual-tagged Druid spells at level 4 in PHB    |
 
+39 - 17 - 14 = 31 - 10 = 
