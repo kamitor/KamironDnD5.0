@@ -1,0 +1,21 @@
+project:
+  type: book
+
+book:
+  title: "Kamiron's Grimoire"
+  author: "Christiaan Verhoef"
+  chapters:
+    - index.qmd
+    - kamiron-level8-moon-druid.qmd
+    - spells/cantrips.qmd
+    - spells/level1.qmd
+    - spells/level2.qmd
+    - spells/level3.qmd
+    - spells/level4.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+  pdf:
+    documentclass: book

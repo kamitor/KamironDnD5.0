@@ -1,15 +1,29 @@
-
 ---
-title: "D&D 5e Character Sheet: Kamiron"
+title: "D&D 5e Character Sheet: Kamiron (Moon Druid, Level 8)"
 format: html
 page-layout: full
+css: styles.css
+
 ---
+
+# Links
+Wild shapes
+https://rpgbot.net/dnd5/characters/classes/druid/wild-shape/
+Wild shape guide
+https://rpgbot.net/dnd5/characters/classes/druid/wild-shape/
+Druid Overview
+https://dnd5e.wikidot.com/druid
+Spell list
+https://dnd5e.wikidot.com/spells:druid
+
+
+14 piecing 
 
 # 🧙 Character Overview
 
 | Character Name | Class & Level | Background | Player Name | Race | Alignment | Experience |
 |----------------|----------------|-------------|--------------|------|------------|-------------|
-| Kamiron        | Druid 5        |             | Kamiron      | Aarakocra |            |             |
+| Kamiron        | Druid 8 (Circle of the Moon) |             | Kamiron      | Aarakocra | Neutral Good? |             |
 
 ---
 
@@ -21,75 +35,80 @@ page-layout: full
 | Dexterity   | 17    | +3       | +3            | ☐          |
 | Constitution| 14    | +2       | +2            | ☐          |
 | Intelligence| 10    | +0       | +0            | ☐          |
-| Wisdom      | 18    | +4       | +4            | ☐          |
-| Charisma    | 8     | -1       |               | ☐          |
+| Wisdom      | 20    | +5       | +8            | ✅         |
+| Charisma    | 8     | -1       | -1            | ☐          |
 
 **Proficiency Bonus:** +3  
 **Inspiration:** ☐
+- 20 
 
 ---
 
 # 🎯 Skills
+| Skill                 | Mod | Proficient | Notes                                                                 |
+|-----------------------|-----|------------|-----------------------------------------------------------------------|
+| Acrobatics (Dex)      | +3  | ☐          | Used for flying maneuvers, aerial balance, or dodging midair hazards |
+| Animal Handling (Wis) | +8  | ✅         | Calm wild creatures; command beasts; great synergy with Druid magic  |
+| Arcana (Int)          | +0  | ☐          | Identify magical effects, glyphs, or strange phenomena                |
+| Athletics (Str)       | -1  | ☐          | Rarely used—low STR; climbing not needed due to flight               |
+| Deception (Cha)       | -1  | ☐          | Not a social-focused build; leave to party Face                      |
+| History (Int)         | +0  | ☐          | Recall lore about ancient ruins, nature spirits, or the Fey          |
+| Insight (Wis)         | +8  | ✅         | Read intent or emotion; strong support role when negotiating         |
+| Intimidation (Cha)    | -1  | ☐          | Rarely used; intimidating from the sky may work narratively          |
+| Investigation (Int)   | +0  | ☐          | Search for clues or track subtle signs in ruins or camps             |
+| Medicine (Wis)        | +5  | ☐          | Stabilize dying allies without magic; limited use with Healing Word  |
+| Nature (Int)          | +3  | ✅         | Know terrain, animals, plants, weather — especially vital in wilds   |
+| Perception (Wis)      | +8  | ✅         | Spot hidden enemies or traps; essential aerial scout skill           |
+| Performance (Cha)     | -1  | ☐          | Theatrical swoops or storytelling — not a main skill for Kamiron     |
+| Persuasion (Cha)      | -1  | ☐          | Used to calm intelligent creatures or in peaceful parley             |
+| Religion (Int)        | +0  | ☐          | Identify nature deities or druidic lore                              |
+| Sleight of Hand (Dex) | +3  | ☐          | Swipe keys or small items midair if needed; niche use                |
+| Stealth (Dex)         | +6  | ✅         | Excellent for **silent scouting from the air**; combo with Pass Without Trace |
+| Survival (Wis)        | +8  | ✅         | Track creatures, navigate wilds, or predict storms                   |
 
-| Skill                 | Mod | Proficient | Notes |
-|-----------------------|-----|------------|-------|
-| Acrobatics (Dex)      |     | ☐          |       |
-| Animal Handling (Wis) |     | ☐          |       |
-| Arcana (Int)          |     | ☐          |       |
-| Athletics (Str)       |     | ☐          |       |
-| Deception (Cha)       |     | ☐          |       |
-| History (Int)         |     | ☐          |       |
-| Insight (Wis)         |     | ☐          |       |
-| Intimidation (Cha)    |     | ☐          |       |
-| Investigation (Int)   |     | ☐          |       |
-| Medicine (Wis)        |     | ☐          |       |
-| Nature (Int)          |     | ☐          |       |
-| Perception (Wis)      |     | ☐          |       |
-| Performance (Cha)     |     | ☐          |       |
-| Persuasion (Cha)      |     | ☐          |       |
-| Religion (Int)        |     | ☐          |       |
-| Sleight of Hand (Dex) |     | ☐          |       |
-| Stealth (Dex)         |     | ☐          |       |
-| Survival (Wis)        |     | ☐          |       |
 
 ---
 
 # 🛡️ Combat
 
 - **Armor Class (AC):** 17  
-- **Initiative:**  
-- **Speed:** 25 / 50 ft  
-- **Hit Point Maximum:** 38  
+- **Initiative:** +3  
+- **Speed:** 25 ft / 50 ft (fly)  
+- **Hit Point Maximum:** 61  
 - **Current HP:**  
 - **Temporary HP:**  
-- **Hit Dice:** 5  
+- **Hit Dice:** 8d8  
 - **Death Saves:** ✅ Successes ☐ ☐ ☐ | ❌ Failures ☐ ☐ ☐
 
----
+61 - 18 - 9 - 8
+
+
 
 # ⚔️ Attacks & Spellcasting
 
-| Name          | Attack Bonus | Damage / Type |
-|---------------|--------------|----------------|
-| Produce Flame | +7           |                |
-| Scythe        | +3           |                |
-| Unarmed       | +3           | 1d4+1-1         |
+| Name               | Attack Bonus | Damage / Type                   | Notes                                           |
+|--------------------|--------------|----------------------------------|-------------------------------------------------|
+| Produce Flame      | +8           | 2d8 Fire                         | Ranged spell attack; 30 ft range                |
+| Flaming Sphere     | —            | 2d6 Fire (DEX save)              | 5-ft AoE; bonus action to ram                   |
+| Thorn Whip         | +8           | 2d6 Piercing                     | 30 ft reach; pulls creature 10 ft closer        |
+| Talons (Unarmed)   | +3           | 1d4 + 1 Slashing                 | Aarakocra claws; includes Improved Talons bonus |
+| Scythe (flavor)    | +2           | 1d8 Slashing (2H)                | STR-based melee weapon; rarely used             |
+| Wild Shape Bite    | +6           | Varies by beast form +1         | Add +1 to natural weapon attacks and damage     |
 
 **Spellcasting Class:** Druid  
-**Spellcasting Ability:** WIS  
-**Spell Save DC:** 15  
-**Spell Attack Bonus:** +7
-
+**Spellcasting Ability:** Wisdom (WIS 20)  
+**Spell Save DC:** 16  
+**Spell Attack Bonus:** +8  
 ---
 
 # 🧪 Spellcasting
 
 ## Cantrips
 
-- Goodberry
-- Guidance
-- Produce Flame
-- Shape Water
+- Goodberry  
+- Guidance  
+- Produce Flame  
+- Shape Water  
 
 ## Spells by Level
 
@@ -97,7 +116,18 @@ page-layout: full
 |-------|-------------------------------------------|--------|------|
 | 1     | Entangle, Healing Word                    | 4      |      |
 | 2     | Barkskin, Healing Spirit, Moonbeam        | 3      |      |
-| 3     | Erupting Earth, Conjure Animals           | 2      |      |
+| 3     | Erupting Earth, Conjure Animals           | 3      |      |
+| 4     | Guardian of Nature, Ice Storm             | 2      |      |
+
+---
+
+# 🌙 Circle of the Moon Features
+
+- **Combat Wild Shape**: Use Wild Shape as a bonus action, and expend spell slots to heal.
+- **Circle Forms**: Wild Shape CR limit is 1 at level 2; CR 2 at level 6.
+- **Elemental Wild Shape** (Lvl 8): Use 2 Wild Shapes to become a CR 5 Elemental.
+- **Wild Shape Uses:** 2 per short rest
+- **Wild Shape CR Max:** 2 (no movement restrictions)
 
 ---
 
@@ -112,65 +142,198 @@ page-layout: full
 
 **Items:**
 
--  
+- Druidic Focus  
+- Explorer’s Pack  
+- Scythe (flavored quarterstaff)  
+- Leather Armor  
 
 ---
 
 # 🧬 Other Proficiencies & Languages
 
--  
+- Common, Aarakocra, Druidic, Sylvan  
+- Herbalism Kit  
+- Light armor, medium armor, shields  
+- Clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears  
 
 ---
 
 # ✨ Features & Traits
 
-- Stronger Talons (+1)
+- Stronger Talons (+1 damage unarmed)  
+- Aarakocra Flight (50 ft fly speed)  
+- Darkvision  
+- Spellcasting  
+- Druid Circle Features (see above)  
 
 ---
 
 # ❤️ Personality Traits
 
--  
+- **Traits:**  
+“I always scan for threats and allies the moment I arrive — people are dangerous, animals are honest.”
+“I don’t understand sarcasm, and I assume everyone agrees with my sense of natural order.”
+“Each day begins with silent meditation in the branches of the tallest tree I can find.”
 - **Ideals:**  
-- **Bonds:**  
+“Balance above all. Nature must be protected from excess — especially the kind humanoids bring.”
+“I would gladly give my life to preserve the ancient rhythms of the wild.”
+“The world is out of tune. Magic, growth, decay — all must flow in harmony again.”
+- **Bonds:**
+“My home lies in the deep forests of the North — I still hear the trees call me by name.”
+“A druid once taught me that magic is part of nature’s rhythm — not a tool to be measured and caged.”
+“I swore an oath to my Circle: stop the Romans from enslaving magic, or die trying.”
+“I carry the grief of forests burned and devoured — and the promise that not one more tree will fall without consequence.”
 - **Flaws:**  
-
+“I see humanoids as parasites — I struggle to value their lives, even when they mean well.”
+“I’m so devoted to balance that I will let people die if their survival would tip the scales.”
+“I follow my oath blindly — even if it means betraying allies or destroying magical knowledge to keep it free.”
+“I can’t imagine being wrong about nature, and I don’t take guidance well from anyone who walks on stone.”
 ---
 
 # 👤 Character Details
 
-| Age | Height | Weight | Eyes | Skin | Hair |
-|-----|--------|--------|------|------|------|
-|     |        |        |      |      |      |
+| Age | Height | Weight | Eyes  | Skin   | Hair                         |
+|-----|--------|--------|-------|--------|------------------------------|
+| 16  | 4'3"   | 62 lbs | Amber | Bronze | Feathers: umber with gold tips |
 
 ---
 
 # 🎭 Character Appearance
 
-> 
+> Kamiron is a small, wiry Aarakocra with sleek bronze feathers and fierce amber eyes. His plumage is streaked with dark umber and glints of gold, giving him the illusion of a polished imperial emblem. Perched atop a Roman standard, Kamiron curls his wings and lowers his head like a statue, passing as the golden eagle of conquest. His movements are silent and exact, trained through years of aerial meditation. Robes of bark-dyed leather and forest moss trail from his shoulders like ritual vestments. Beneath him, an unseen servant — invisible but robed — carries the standard forward, giving the illusion of a divine presence leading the legion.
 
 ---
 
 # 📖 Backstory
 
-> 
+> [Insert full backstory here — explorer from a high mountain, devoted to preserving balance and guarding natural places.]
 
 ---
 
 # 🛡️ Allies & Organizations
 
-| Name | Symbol | Notes |
-|------|--------|-------|
-|      |        |       |
+| Name         | Symbol | Notes                      |
+|--------------|--------|----------------------------|
+| Circle of the Moon | 🌕     | Druidic order from the forest peaks |
 
 ---
 
 # 💎 Treasure
 
--  
+- Healing herbs  
+- Emerald Elemental Charm  
 
 ---
 
 # ➕ Additional Features & Traits
 
--  
+- Wild Shape: CR 2 beasts (no swim/fly restrictions)  
+- Elemental Shape: 1x/day as Air, Earth, Fire, or Water Elemental (CR 5)
+
+# Spells Detailed
+
+| **Spell**         | **Effect**                 | **Description**                                                                                                                                              | **Components**                        |
+| ----------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------- |
+| **Produce Flame** | Light & ranged fire attack | You create a flame in your hand that sheds light (10 ft bright, 10 ft dim). You can hurl it to make a **ranged spell attack**: **2d8 fire damage** at Lvl 8. | V, S                                  |
+| **Guidance**      | +1d4 to ability checks     | Touch a creature. It can add **1d4 to one ability check** of its choice within 1 minute. Can only be used once per casting.                                  | V, S                                  |
+| **Thorn Whip**    | Pull target & deal damage  | Create a magical vine whip: **melee spell attack**, **2d6 piercing damage**, and **pull the target 10 ft closer**. Great for battlefield control.            | V, S, M (stem of a plant with thorns) |
+
+
+| **Level** | **Spell**                   | Role / Effect                                     |
+| --------- | --------------------------- | ------------------------------------------------- |
+| **1st**         | **Detect Magic**            | Ritual utility – magical aura sensing             |
+| **1st**         | **Entangle**                | Area restraint + difficult terrain                |
+| **1st**         | **Healing Word**            | Bonus action healing at range                     |
+| **2nd**         | **Flaming Sphere**          | Repeatable fire damage – battlefield AoE          |
+| **2nd**         | **Spike Growth**            | Hidden terrain trap – massive damage on movement  |
+| **2nd**         | **Healing Spirit**          | Group healing over time (concentration)           |
+| **3rd**         | **Hold Person**             | Paralyze humanoids – combo with multiattack/crits |
+| **3rd**         | **Protection from Energy**  | Resist elemental damage                           |
+| **3rd**         | **Conjure Animals**         | Summon beasts – powerful swarm tactic             |
+| **4th**         | **Tidal Wave**              | AoE damage + prone (Dex save)                     |
+| **4th**         | **Wall of Fire**            | Line/area denial and high fire damage             |
+| **4th**         | **Stoneskin**               | Buff – physical resistance                        |
+| **4th**         | **Polymorph**               | Versatile – buff ally or remove enemy             |
+| **4th**         | **Conjure Woodland Beings** | Summon fey casters (Pixies = Polymorph/utility)   |
+
+| Level | Spell                   | Casting Time     | Range        | Components     | Description                                                                 |
+|-------|-------------------------|------------------|--------------|----------------|-----------------------------------------------------------------------------|
+| 1     | Detect Magic            | 1 action         | Self (30 ft) | V, S           | Sense presence and school of magic. Ritual. Concentration, 10 min.         |
+| 1     | Entangle                | 1 action         | 90 ft        | V, S           | 20-ft square restraint. STR save. Difficult terrain. Concentration, 1 min. |
+| 1     | Healing Word            | 1 bonus action   | 60 ft        | V              | Heals 1d4 + WIS mod. Upcastable. Fast casting.                             |
+| 2     | Flaming Sphere          | 1 action         | 60 ft        | V, S, M        | 5-ft fire sphere. 2d6 fire damage. Bonus action to move. Conc., 1 min.     |
+| 2     | Spike Growth            | 1 action         | 150 ft       | V, S, M        | Hidden spikes. 2d4 per 5 ft moved. Difficult terrain. Conc., 10 min.       |
+| 2     | Healing Spirit          | 1 bonus action   | 60 ft        | V, S           | Spirit heals 1d6 per trigger. 1 + WIS mod uses. Concentration, 1 min.      |
+| 2     | Hold Person             | 1 action         | 60 ft        | V, S, M        | Paralyze humanoid. Auto-crits in melee. Concentration, 1 min.              |
+| 3     | Protection from Energy  | 1 action         | Touch        | V, S           | Grants resistance to chosen element. Conc., 1 hour.                        |
+| 3     | Conjure Animals         | 1 action         | 60 ft        | V, S           | Summons beasts (1–8). Obeys commands. Concentration, 1 hour.               |
+| 3     | Tidal Wave              | 1 action         | 120 ft       | V, S, M        | 30x10x10 ft. 4d8 bludgeoning. Knocked prone. DEX save.                     |
+| 4     | Wall of Fire            | 1 action         | 120 ft       | V, S, M        | 60-ft wall. 5d8 fire on one side. DEX save. Concentration, 1 min.          |
+| 4     | Stoneskin               | 1 action         | Touch        | V, S, M        | Resistance to nonmagical B/P/S damage. Concentration, 1 hour.             |
+| 4     | Polymorph               | 1 action         | 60 ft        | V, S, M        | Transform creature into beast. WIS save. Concentration, 1 hour.           |
+| 4     | Conjure Woodland Beings | 1 action         | 60 ft        | V, S, M        | Summons fey (Pixies = Polymorph). DM controls. Concentration, 1 hour.     |
+
+## log 25-05-2025
+
+Other characters; 
+Misty - Avenger Dwarf; 
+neela - Changingling - Cleric / Healer
+Lost - Ranger / Striker 
+Serena - Wizard Scribe / Controller
+Valeria - Some kind of Sorcerer; 
+Kamiron - Druid / Offtank
+
+We are back in the city after excited hell and are once again in a city.
+
+Turns out that Neela is a changeling.
+
+We are regrouping at an inn/Barn; After having a long fight. 
+After leaving Lost alone with Pharx - Kamiron flies back to the barn to collect the group.
+Gather the group, and go outside of the city towards lost.
+
+There was a powerfull magic item that distracted us a bit.
+when meeting up with Lost again, we introduce Valeria, who turns out to be a few creature as well; 
+We capture a deer for Phrax and then go and rest for the night. 
+Veleria tells that the people where he comes from are called " the untamed "  and what his profession was to talk rich people out of their money and then distribute that amongst the poor.
+He got in trouble with a group with the chord; 
+
+In the forest we set up camp; and sorena reads the evil tombe to gather more spells; 
+in the middle of the night a small girl approaches; 
+
+| **Spell Level** | **Spell**                     | **Effect**                                         |
+| --------------- | ----------------------------- | -------------------------------------------------- |
+| **1st**         | **Detect Magic**              | Sense magical auras within 30 ft                   |
+| **1st**         | **Detect Poison and Disease** | Identify poisonous creatures or areas              |
+| **1st**         | **Speak with Animals**        | Communicate with beasts using simple ideas         |
+| **2nd**         | **Animal Messenger**          | Send a small beast to deliver a message            |
+| **2nd**         | **Beast Sense**               | See through a beast’s eyes/hear what it hears      |
+| **2nd**         | **Locate Animals or Plants**  | Find nearby plants/animals matching a description  |
+| **3rd**         | **Water Walk**                | Walk on water — or lava, mud, etc., for your party |
+| **3rd**         | **Meld into Stone**           | Meld with natural stone to hide or meditate safely |
+| **4th**         | *(None)*                      | No ritual-tagged Druid spells at level 4 in PHB    |
+
+14  - 7: 
+
+</final_file_content>
+
+IMPORTANT: For any future changes to this file, use the final_file_content shown above as your reference. This content reflects the current state of the file, including any auto-formatting (e.g., if you used single quotes but the formatter converted them to double quotes). Always base your SEARCH/REPLACE operations on this final version to ensure accuracy.
+
+
+<environment_details>
+# VSCode Visible Files
+kamiron-level8-moon-druid.qmd
+
+# VSCode Open Tabs
+kamiron-level8-moon-druid.html
+character-sheet-kamiron.qmd
+kamiron-level8-moon-druid.qmd
+
+# Current Time
+6/22/2025, 4:13:46 PM (Europe/Amsterdam, UTC+2:00)
+
+# Context Window Usage
+51,055 / 96K tokens used (53%)
+
+# Current Mode
+ACT MODE
+</environment_details>
